@@ -9,9 +9,9 @@ This project was made for my AI class in University.
 ---
 
 ## Table of Contents
--[Pacakages used](#pacakages-used)
--[Working of ML model](#working-of-ml-model)
--[Hosting the ML model](#hosting-the-ml-model)
--[Open the sentiment analyzer](#open-the-sentiment-analyzer)
+- [Pacakages used](#pacakages-used)
+- [Working of ML model](#working-of-ml-model)
+- [Hosting the ML model](#hosting-the-ml-model)
+- [Open the sentiment analyzer](#open-the-sentiment-analyzer)
 
 
