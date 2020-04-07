@@ -55,13 +55,35 @@ The model was based on NLP(Natural Language Processing).
 
 - The sequenced data was then **padded** using the [pad_sequence](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/sequence/pad_sequences)
 
-- The padded data was then fed into the ML model 
+- The padded data was then fed into the ML model to train
 
 - The model was then saved as a **HDF(Hierarchical Data Format)** file.
 
 ---
 
-##
+## Dploying the ML model
+
+The model was delpoyed on the [AWS(Amazon Web Services)](https://aws.amazon.com/).
+
+It was deployed on a **VM** containg: - 
+
+- 1 CPU Core
+
+- 1 GB Ram
+
+- 8GB Storage
+
+The VM is runing on AMAZON AMI Linux.
+
+
+The model webpage was built using the python package [Streamlit](https://www.streamlit.io/).
+
+
+![](ml_model_screenshot.png)
+
+---
+
+
 
 
 
