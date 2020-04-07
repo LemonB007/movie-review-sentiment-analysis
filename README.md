@@ -62,7 +62,7 @@ The model was based on NLP(Natural Language Processing).
 
 ---
 
-## Dploying the ML model
+## Deploying the ML model
 
 The model was delpoyed on the [AWS(Amazon Web Services)](https://aws.amazon.com/).
 
