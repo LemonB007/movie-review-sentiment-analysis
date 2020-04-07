@@ -9,9 +9,20 @@ This project was made for my AI class in University.
 ---
 
 ## Table of Contents
-- [Pacakages used](#pacakages-used)
+- [Packages used](#packages-used)
 - [Working of ML model](#working-of-ml-model)
 - [Hosting the ML model](#hosting-the-ml-model)
 - [Open the sentiment analyzer](#open-the-sentiment-analyzer)
+
+---
+
+## Packages used
+
+- [Python](https://www.python.org/)
+- [Tensorflow](https://www.tensorflow.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [Streamlit](https://www.streamlit.io/)
+
+
 
 
