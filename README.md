@@ -9,11 +9,17 @@ This project was made for my AI class in University.
 ---
 
 ## Table of Contents
+- [Try out the sentiment analyzer](#try-out-the-sentiment-analyzer)
 - [Packages used](#packages-used)
 - [Dataset used](#dataset-used)
 - [Working of ML model](#working-of-ml-model)
 - [Deploying the ML model](#deploying-the-ml-model)
-- [Try out the sentiment analyzer](#try-out-the-sentiment-analyzer)
+
+---
+
+## Try out the sentiment analyzer
+
+To try out the **Sentiment Analyzer** visit this [link](https://bit.ly/3aRb63E).
 
 ---
 
@@ -81,11 +87,7 @@ The model webpage was built using the python package [Streamlit](https://www.str
 
 ![](ml_model_screenshot.png)
 
----
 
-## Try out the sentiment analyzer
-
-To try out the **Sentiment Analyzer** visit this [link](https://bit.ly/3aRb63E).
 
 
 
