@@ -6,20 +6,15 @@ This ML model will guess if a given review is positive or negative by using NLP.
 
 This project was made for my AI class in University.
 
+To try out the **Sentiment Analyzer** visit this [link](https://bit.ly/3aRb63E).
+
 ---
 
 ## Table of Contents
-- [Try out the sentiment analyzer](#try-out-the-sentiment-analyzer)
 - [Packages used](#packages-used)
 - [Dataset used](#dataset-used)
 - [Working of ML model](#working-of-ml-model)
 - [Deploying the ML model](#deploying-the-ml-model)
-
----
-
-## Try out the sentiment analyzer
-
-To try out the **Sentiment Analyzer** visit this [link](https://bit.ly/3aRb63E).
 
 ---
 
